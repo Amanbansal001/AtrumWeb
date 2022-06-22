@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VJ4P2MWR3W.com.app.atrumart",
+        "paths": [
+          "NOT \/api\/*",
+          "NOT \/",
+          "*"
+        ]
+      }
+    ]
+  }
+}
